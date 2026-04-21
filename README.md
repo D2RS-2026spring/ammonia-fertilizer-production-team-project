@@ -1,13 +1,13 @@
 # ammonia-fertilizer-production-team-project
 分散式氨肥生产小组作业
 ## 小组成员
-- 刘  慧2025303120075
-- 李亚茹2025303120104
-- 王焱栋2025303120131
-- 高  彬2025303120156
-- 倪  龙2025303110088
+- 刘  慧2025303120075[@solitude879](https://github.com/solitude879)
+- 李亚茹2025303120104[@EIO-lyr](https://github.com/EIO-lyr)
+- 王焱栋2025303120131[@WANGSpecial](https://github.com/WANGSpecial)
+- 高  彬2025303120156[@geiut(GaoBin）](https://github.com/geiut(GaoBin）)
+- 倪  龙2025303110088[@nilongaixuexi66](https://github.com/nilongaixuexi66)
 ## 项目信息
-- 论文标题：Cost-competitive decentralized ammonia fertilizer production can increase food security
+- 论文标题：Cost-competitive dinecentralized ammonia fertilizer production can increase food security
 - 发表期刊/时间：Nature Food，16 May 2024
 - 论文链接：https://doi.org/10.1038/s43016-024-00979-y
 - 代码和数据集链接：https://doi.org/10.5281/zenodo.815514
