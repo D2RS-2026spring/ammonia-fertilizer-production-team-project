@@ -4,7 +4,7 @@
 - 刘  慧2025303120075[@solitude879](https://github.com/solitude879)
 - 李亚茹2025303120104[@EIO-lyr](https://github.com/EIO-lyr)
 - 王焱栋2025303120131[@WANGSpecial](https://github.com/WANGSpecial)
-- 高  彬2025303120156[@Gaobin](https://github.com/Gaobin)
+- 高  彬2025303120156[@geiut](https://github.com/geiut)
 - 倪  龙2025303110088[@nilongaixuexi66](https://github.com/nilongaixuexi66)
 ## 项目信息
 - 论文标题：Cost-competitive dinecentralized ammonia fertilizer production can increase food security
