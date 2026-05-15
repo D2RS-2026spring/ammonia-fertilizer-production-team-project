@@ -10,9 +10,9 @@
 - 论文标题：Cost-competitive dinecentralized ammonia fertilizer production can increase food security
 - 发表期刊/时间：Nature Food，16 May 2024
 - 论文链接：https://doi.org/10.1038/s43016-024-00979-y
-- 代码和数据集链接：https://doi.org/10.5281/zenodo.815514
+- 代码和数据集链接：https://doi.org/10.5281/zenodo.8155141
 ## 复现目标与核心内容
-本项目完整复现了原研究的计算逻辑与可视化结果，核心目标包括：
+本项目全程在Anaconda3软件中完成，完整复现了原研究的计算逻辑与可视化结果，核心目标包括：
 1.  完成 **`grid`（电网供电）** 与 **`agrivolt`（农光互补供电）** 两种系统的氨肥成本（LCOA）计算
 2.  生成与文献一致的成本密度分布曲线、供需平衡曲线
 3.  验证不同年份（2020/2030/2050）、不同技术路线的成本趋势差异
