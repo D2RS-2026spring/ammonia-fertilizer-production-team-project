@@ -1,4 +1,4 @@
-# ammonia-fertilizer-production-team-project
+0# ammonia-fertilizer-production-team-project
 分散式氨肥生产小组作业
 ## 小组成员
 - 刘  慧2025303120075[@solitude879](https://github.com/solitude879)
@@ -23,7 +23,7 @@
 - `figure/`:复现出的图表内容
 ## 环境配置与依赖安装
 ### 1. 创建独立虚拟环境
-```bash
+```bash6
 conda create -n ammonia_repro python=3.9.12 -y
 conda activate ammonia_repro
 ```
@@ -48,5 +48,5 @@ import geopandas as gpd
 ### ⚠️ 大文件说明
 > 由于 GitHub 对单文件大小限制为 100MB，项目中部分数据文件（.csv/.geojson/.tif等）体积超过限制，未上传至仓库。
 
-- **获取方式**：从论文原始数据链接下载：[https://doi.org/10.5281/zenodo.815514](https://doi.org/10.5281/zenodo.8155141)
+- **获取方式**：从论文原始数据链接下载：[https://doi.org/10.5281/zenodo.8155141](https://doi.org/10.5281/zenodo.8155141)
 - **使用方法**：将下载后的文件夹整体替换项目中的同名文件夹，即可完整运行所有代码。
